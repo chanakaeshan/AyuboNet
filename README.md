@@ -32,7 +32,7 @@ This project aims to streamline and manage various healthcare-related services, 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/chanakaeshan/Healthcare_Services.git
+    git clone https://github.com/chanakaeshan/AyuboNet
     cd Healthcare_Services
     ```
 2. Install dependencies (if applicable):
