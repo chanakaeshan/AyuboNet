@@ -15,12 +15,6 @@ This project aims to streamline and manage various healthcare-related services, 
 - Administrative dashboard for managing users and services
 - Responsive design for desktop and mobile devices
 
-## Technologies Used
-
-- **JavaScript** (97.9%): Main application logic and interactivity
-- **CSS** (1.9%): Styling and layout
-- **HTML** (0.2%): Markup structure
-
 ## Getting Started
 
 ### Prerequisites
